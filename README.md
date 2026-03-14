@@ -24,7 +24,8 @@
 * C
 * HTML
 * Lua / Luau / Glua
-* Some Python for tooling
+* Python
+* Java
 
 **Tools**
 
