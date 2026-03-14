@@ -10,7 +10,7 @@
 * 🔬 Interested in: **game internals, memory analysis, tooling**
 * 🛠 Currently working on:
 
-  * External project for **Garry's Mod**
+  * Internal project for **Garry's Mod**
   * External project for **Roblox**
 * 📚 Always learning more about **low-level programming and debugging**
 
