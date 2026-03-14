@@ -22,6 +22,8 @@
 
 * C++
 * C
+* HTML
+* Lua / Luau / Glua
 * Some Python for tooling
 
 **Tools**
